@@ -84,7 +84,16 @@ Outils & Plateformes
 
 <!-- Social Media -->
 
-<div align="center"> <h2>🌐 Redes Sociais</h2>
+<div align="center">
+  <h2>🌐 Redes Sociais</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barros-0a4b45351/)
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasbsilva84)
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brrsilva__)
+  
+</div>
 
 
 
