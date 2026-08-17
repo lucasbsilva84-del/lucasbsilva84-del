@@ -115,20 +115,10 @@ Outils & Plateformes
 
 </div>
 
-<!-- Languages -->
-
-<div align="center"> <h2>🌍 Linguagens</h2>
-
 
 
 
 </div>
-
-<!-- GitHub Stats -->
-
-<div align="center"> <h2>📊 Estatísticas GitHub</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lucasbsilva84&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 
 
