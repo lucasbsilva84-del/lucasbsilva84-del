@@ -123,9 +123,7 @@ Outils & Plateformes
 
 <img src="https://github-readme-stats.vercel.app/api?username=lucasbsilva84&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbsilva84&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasbsilva84&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
