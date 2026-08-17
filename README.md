@@ -116,8 +116,7 @@
   <h2>🌍 Linguagem </h2>
   
   ![Français](https://img.shields.io/badge/Français-Tréès_Bien-blue?style=for-the-badge)
-  ![Anglais](https://img.shields.io/badge/Anglais-Moyen-green?style=for-the-badge)
-  ![Soninké](https://img.shields.io/badge/Soninké-Maternelle-orange?style=for-the-badge)
+ 
 </div>
 <!-- GitHub Stats -->
 <div align="center">
