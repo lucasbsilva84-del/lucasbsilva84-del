@@ -86,7 +86,7 @@ Outils & Plateformes
 <div align="center">
   <h2>🌐 Redes Sociais</h2>
 
-  <a href="https://www.linkedin.com/in/lucas-barros-0a4b45351/">
+  <a href="[https://www.linkedin.com/in/lucas-barros-0a4b45351/](https://www.linkedin.com/in/lucas-barros-486a38403/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   •
